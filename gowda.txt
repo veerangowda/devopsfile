@@ -4,3 +4,5 @@ a=b/c
 mul
 a=b*c
 
+sub
+a=b-c
